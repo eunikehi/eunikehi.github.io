@@ -1,0 +1,24 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+  }
+  
+  .navbar-nav a:hover {
+    color: #fff !important;
+    font-weight: bold;
+  }
+
+  #projects {
+    background-color: #e2edff;
+  }
+  
+  #projects .card-text{
+    font-size: 16pt;
+    text-shadow: 3px 2px 1px paleturquoise;
+    text-align: center;
+}
+  
+  section {
+    padding-top: 5rem;
+  }
+  
